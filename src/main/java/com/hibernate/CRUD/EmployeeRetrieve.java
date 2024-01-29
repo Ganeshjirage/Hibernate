@@ -1,4 +1,4 @@
-package com.hibernate.insert;
+package com.hibernate.CRUD;
 
 import java.util.List;
 

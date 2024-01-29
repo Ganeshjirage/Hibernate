@@ -1,4 +1,4 @@
-package com.hibernate.insert;
+package com.hibernate.CRUD;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;

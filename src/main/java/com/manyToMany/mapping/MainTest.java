@@ -84,9 +84,9 @@ public class MainTest {
 
 //---------------------------------------------------Saving the shop object in session
 
-//		session.persist(shop1);
-//		session.persist(shop2);
-//		session.persist(shop3);
+		session.persist(shop1);
+		session.persist(shop2);
+		session.persist(shop3);
 
 		t.commit();
 		session.close();
